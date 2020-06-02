@@ -11,3 +11,4 @@ Just different useful stuff in order not to forget it
 - Run `git config --global credential.github.com.useHttpPath true` 
   - For all sites do `git config --global credential.useHttpPath true`
 - When cloning do `git clone https://CLONINGUSER@github.com/user/repo.git`
+- Also refer to [link](https://github.com/microsoft/Git-Credential-Manager-for-Windows/issues/749)
