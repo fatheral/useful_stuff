@@ -20,7 +20,7 @@ Just different useful stuff in order not to forget it
 
 ### Generate new ssh key (MacOS)
 
-- Run `ssh-keygen -t ed25519 -C "your_email@example.com"` and store it to `id_new_key`
+- Run `ssh-keygen -t ed25519 -C "your_email@example.com"` and store it to `<id_private_key>`
 - Add to the `~/.ssh/config`:
 ```
 Host *
